@@ -28,6 +28,7 @@ This section will provide an overview of the `AWS services` that can be used to 
 - AWS Elastic Beanstalk
 - AWS CodeDeploy
 - Amazon Elastic Container Service
+ ![Amazon Elastic Container Service](image-1.png)
 - Amazon Elastic Kubernetes Service
 - AWS App Runner
 - Amazon Lightsail
