@@ -1,4 +1,5 @@
 # Introduction
+![AWS Deployment Services](image.png)
 
 Designing a deployment solution for your application is a critical part of building a well-architected application on AWS. Based on the nature of your application and the underlying services that it requires, you can use AWS services to create a ﬂexible deployment solution that can be tailored to ﬁt the needs of both your application and your organization.
 
