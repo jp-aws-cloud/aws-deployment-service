@@ -31,6 +31,7 @@ This section will provide an overview of the `AWS services` that can be used to 
  ![Amazon Elastic Container Service](image-1.png)
 - Amazon Elastic Kubernetes Service
 - AWS App Runner
+  ![AWS App Runner](image-2.png)
 - Amazon Lightsail
 - Red Hat OpenShift Service on AWS
 - AWS Local Zones
